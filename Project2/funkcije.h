@@ -35,3 +35,4 @@ static void nastaviIliIzadji(char* nastavak);
 static void izadjiIzPrograma(Financije* fin);
 
 #endif
+//komentar
