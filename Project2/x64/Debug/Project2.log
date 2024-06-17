@@ -1,8 +1,0 @@
-﻿  funkcije.c
-C:\Users\bella\source\repos\Project2\Project2\funkcije.c(227,12): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
-C:\Users\bella\source\repos\Project2\Project2\funkcije.c(232,20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
-C:\Users\bella\source\repos\Project2\Project2\funkcije.c(238,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
-C:\Users\bella\source\repos\Project2\Project2\funkcije.c(244,12): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
-C:\Users\bella\source\repos\Project2\Project2\funkcije.c(249,20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
-C:\Users\bella\source\repos\Project2\Project2\funkcije.c(255,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
-  Project2.vcxproj -> C:\Users\bella\source\repos\Project2\x64\Debug\Project2.exe
