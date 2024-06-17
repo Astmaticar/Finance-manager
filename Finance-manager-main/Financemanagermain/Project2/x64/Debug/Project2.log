@@ -1,4 +1,0 @@
-﻿  funkcije.c
-C:\Users\Amte\Downloads\Finance-manager-main_1\Finance-manager-main\Project2\funkcije.c(187,20): warning C4133: 'function': incompatible types - from 'char [11]' to 'FILE *'
-C:\Users\Amte\Downloads\Finance-manager-main_1\Finance-manager-main\Project2\funkcije.c(342,25): warning C4013: 'isspace' undefined; assuming extern returning int
-  Project2.vcxproj -> C:\Users\Amte\Downloads\Finance-manager-main_1\Finance-manager-main\x64\Debug\Project2.exe
